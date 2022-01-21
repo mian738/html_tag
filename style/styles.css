@@ -1,0 +1,14 @@
+body{
+    background-color:orangered;
+}
+button{
+    background-color:purple;
+}
+table, th, td {
+    border: 1px solid darkslategrey;
+  }
+.wrapper{
+    width: 95%;
+    margin: 0 auto;
+    border: 0.5px transparent #FFFFFF;
+}
