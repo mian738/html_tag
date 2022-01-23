@@ -1,0 +1,56 @@
+body{
+    background-color:orangered;
+}
+button{
+    background-color:purple;
+}
+table, th, td {
+    border: 1px solid darkslategrey;
+  }
+.wrapper{
+    width: 95%;
+    margin: 0 auto;
+    border: 0.5px transparent #FFFFFF;
+}
+
+
+
+.header{
+    min-height: 200px;
+    background-color: royalblue;
+}
+.contact{
+    min-height: 200px;
+    background-color: orchid;
+    width: 60%;
+    float: left;
+}
+.blog{
+    min-height: 200px;
+    background-color: teal;
+    width: 40%;
+    float: right;
+}
+.wrapper2,.container{
+    overflow: hidden;
+}
+.box{
+    min-height: 150px;
+    width: 33.33%;
+    float: left;
+}
+
+.green{background-color: green;}
+.yellow{background-color: yellowgreen;}
+.orange{background-color: olive;}
+
+.contact{
+    min-height: 100px;
+    background-color: saddlebrown;
+}
+.footer{
+    min-height: 100px;
+    background: black;
+}
+
+
